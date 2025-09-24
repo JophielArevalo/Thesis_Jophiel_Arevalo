@@ -21,19 +21,48 @@ This repository contains the experimental framework for evaluating **Intent-Base
 
 ---
 
-## ⚙️ Setup Instructions
 
-### 1. Install Dependencies
+
+## ⚙️ Hardhat Installation & Setup
+
+Hardhat is a development environment for Ethereum smart contracts. Follow these steps to install and configure it for this project.
+
+### 🔧 Prerequisites
+
+Make sure you have the following installed:
+
+- [Node.js](https://nodejs.org/) (v16 or later recommended)
+- [npm](https://www.npmjs.com/) (comes with Node.js)
+- [Git](https://git-scm.com/) (optional, for version control)
+
+### 📦 Step-by-Step Installation
+
+#### 1. Initialize Hardhat (if not already initialized)
+
 ```bash
-npm install
+npx hardhat
 ```
 
-### 2. Compile Contracts
+Choose **“Create a JavaScript project”** when prompted.
+
+#### 2. Install Dependencies
+
+```bash
+npm install --save-dev hardhat @nomicfoundation/hardhat-toolbox dotenv
+```
+
+This installs:
+
+- Hardhat core
+- Toolbox (includes Ethers.js, Waffle, Chai, etc.)
+- Dotenv for managing environment variables
+
+### 3. Compile Contracts
 ```bash
 npx hardhat compile
 ```
 
-### 3. Run Local Simulations
+### 4. Run Local Simulations
 #### Benchmark Solver Mechanisms
 ```bash
 npx hardhat run scripts/BenchMechanisms.js
