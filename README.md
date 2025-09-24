@@ -4,7 +4,7 @@ This repository contains the experimental framework for evaluating **Intent-Base
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── contracts/
@@ -23,11 +23,11 @@ This repository contains the experimental framework for evaluating **Intent-Base
 
 
 
-## ⚙️ Hardhat Installation & Setup
+## Hardhat Installation & Setup
 
 Hardhat is a development environment for Ethereum smart contracts. Follow these steps to install and configure it for this project.
 
-### 🔧 Prerequisites
+### Prerequisites
 
 Make sure you have the following installed:
 
@@ -35,7 +35,7 @@ Make sure you have the following installed:
 - [npm](https://www.npmjs.com/) (comes with Node.js)
 - [Git](https://git-scm.com/) (optional, for version control)
 
-### 📦 Step-by-Step Installation
+### Step-by-Step Installation
 
 #### 1. Initialize Hardhat (if not already initialized)
 
@@ -75,14 +75,14 @@ npx hardhat run scripts/Comparison_Final.js
 
 ---
 
-## 🧪 Experiment Overview
+## Experiment Overview
 
-### ✅ Contracts
+### Contracts
 - `IntentBridge2.sol`: Implements IBB with dual-lock escrow and solver selection.
 - `TraditionalBridge.sol`: Simulates lock–mint bridge flow.
 - `MockToken.sol` / `TestToken.sol`: Used for testing token transfers.
 
-### 🧠 Mechanism Evaluation
+### Mechanism Evaluation
 - **Auction-Based**
 - **Randomized Egalitarian Dispatch**
 - **Open-Claim Best-Fit**
@@ -92,14 +92,14 @@ Benchmarked for:
 - Gas usage
 - Fairness
 
-### 🔬 Comparative Analysis
+### Comparative Analysis
 - **Execution latency**: Measured in milliseconds
 - **Gas consumption**: Measured in units
 - **Efficiency ratio**: IBB vs Traditional
 
 ---
 
-## 📊 Results Summary
+## Results Summary
 - IBB reduces latency by ~7.5×
 - Gas savings of ~22–59%
 - Randomized Dispatch selected as default for benchmarking
