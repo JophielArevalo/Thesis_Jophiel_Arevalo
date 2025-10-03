@@ -1,0 +1,702 @@
+[
+  {
+    "trial": 1,
+    "solver": "0x15d34AAf54267DB7D7c367839AAf71A00a2C6A65",
+    "ack_time_ms": 196,
+    "ack_anomaly": false,
+    "gas_fulfill": 104776
+  },
+  {
+    "trial": 2,
+    "solver": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC",
+    "ack_time_ms": 352,
+    "ack_anomaly": false,
+    "gas_fulfill": 87676
+  },
+  {
+    "trial": 3,
+    "solver": "0x976EA74026E726554dB657fA54763abd0C3a0aa9",
+    "ack_time_ms": 185,
+    "ack_anomaly": false,
+    "gas_fulfill": 87676
+  },
+  {
+    "trial": 4,
+    "solver": "0x976EA74026E726554dB657fA54763abd0C3a0aa9",
+    "ack_time_ms": 5456,
+    "ack_anomaly": true,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 5,
+    "solver": "0x9965507D1a55bcC2695C58ba16FB37d819B0A4dc",
+    "ack_time_ms": 355,
+    "ack_anomaly": false,
+    "gas_fulfill": 87664
+  },
+  {
+    "trial": 6,
+    "solver": "0x90F79bf6EB2c4f870365E785982E1f101E93b906",
+    "ack_time_ms": 595,
+    "ack_anomaly": false,
+    "gas_fulfill": 87640
+  },
+  {
+    "trial": 7,
+    "solver": "0x90F79bf6EB2c4f870365E785982E1f101E93b906",
+    "ack_time_ms": 220,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 8,
+    "solver": "0x976EA74026E726554dB657fA54763abd0C3a0aa9",
+    "ack_time_ms": 554,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 9,
+    "solver": "0x15d34AAf54267DB7D7c367839AAf71A00a2C6A65",
+    "ack_time_ms": 515,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 10,
+    "solver": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC",
+    "ack_time_ms": 382,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 11,
+    "solver": "0x15d34AAf54267DB7D7c367839AAf71A00a2C6A65",
+    "ack_time_ms": 540,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 12,
+    "solver": "0x976EA74026E726554dB657fA54763abd0C3a0aa9",
+    "ack_time_ms": 164,
+    "ack_anomaly": false,
+    "gas_fulfill": 70564
+  },
+  {
+    "trial": 13,
+    "solver": "0x976EA74026E726554dB657fA54763abd0C3a0aa9",
+    "ack_time_ms": 184,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 14,
+    "solver": "0x9965507D1a55bcC2695C58ba16FB37d819B0A4dc",
+    "ack_time_ms": 286,
+    "ack_anomaly": false,
+    "gas_fulfill": 70564
+  },
+  {
+    "trial": 15,
+    "solver": "0x976EA74026E726554dB657fA54763abd0C3a0aa9",
+    "ack_time_ms": 463,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 16,
+    "solver": "0x90F79bf6EB2c4f870365E785982E1f101E93b906",
+    "ack_time_ms": 461,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 17,
+    "solver": "0x9965507D1a55bcC2695C58ba16FB37d819B0A4dc",
+    "ack_time_ms": 309,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 18,
+    "solver": "0x90F79bf6EB2c4f870365E785982E1f101E93b906",
+    "ack_time_ms": 638,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 19,
+    "solver": "0x976EA74026E726554dB657fA54763abd0C3a0aa9",
+    "ack_time_ms": 5138,
+    "ack_anomaly": true,
+    "gas_fulfill": 70564
+  },
+  {
+    "trial": 20,
+    "solver": "0x15d34AAf54267DB7D7c367839AAf71A00a2C6A65",
+    "ack_time_ms": 546,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 21,
+    "solver": "0x976EA74026E726554dB657fA54763abd0C3a0aa9",
+    "ack_time_ms": 444,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 22,
+    "solver": "0x9965507D1a55bcC2695C58ba16FB37d819B0A4dc",
+    "ack_time_ms": 573,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 23,
+    "solver": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC",
+    "ack_time_ms": 195,
+    "ack_anomaly": false,
+    "gas_fulfill": 70564
+  },
+  {
+    "trial": 24,
+    "solver": "0x9965507D1a55bcC2695C58ba16FB37d819B0A4dc",
+    "ack_time_ms": 5563,
+    "ack_anomaly": true,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 25,
+    "solver": "0x976EA74026E726554dB657fA54763abd0C3a0aa9",
+    "ack_time_ms": 423,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 26,
+    "solver": "0x976EA74026E726554dB657fA54763abd0C3a0aa9",
+    "ack_time_ms": 177,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 27,
+    "solver": "0x90F79bf6EB2c4f870365E785982E1f101E93b906",
+    "ack_time_ms": 329,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 28,
+    "solver": "0x90F79bf6EB2c4f870365E785982E1f101E93b906",
+    "ack_time_ms": 5412,
+    "ack_anomaly": true,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 29,
+    "solver": "0x9965507D1a55bcC2695C58ba16FB37d819B0A4dc",
+    "ack_time_ms": 479,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 30,
+    "solver": "0x9965507D1a55bcC2695C58ba16FB37d819B0A4dc",
+    "ack_time_ms": 602,
+    "ack_anomaly": false,
+    "gas_fulfill": 70564
+  },
+  {
+    "trial": 31,
+    "solver": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC",
+    "ack_time_ms": 562,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 32,
+    "solver": "0x90F79bf6EB2c4f870365E785982E1f101E93b906",
+    "ack_time_ms": 254,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 33,
+    "solver": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC",
+    "ack_time_ms": 615,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 34,
+    "solver": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC",
+    "ack_time_ms": 512,
+    "ack_anomaly": false,
+    "gas_fulfill": 70564
+  },
+  {
+    "trial": 35,
+    "solver": "0x15d34AAf54267DB7D7c367839AAf71A00a2C6A65",
+    "ack_time_ms": 247,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 36,
+    "solver": "0x9965507D1a55bcC2695C58ba16FB37d819B0A4dc",
+    "ack_time_ms": 124,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 37,
+    "solver": "0x976EA74026E726554dB657fA54763abd0C3a0aa9",
+    "ack_time_ms": 130,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 38,
+    "solver": "0x9965507D1a55bcC2695C58ba16FB37d819B0A4dc",
+    "ack_time_ms": 357,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 39,
+    "solver": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC",
+    "ack_time_ms": 452,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 40,
+    "solver": "0x976EA74026E726554dB657fA54763abd0C3a0aa9",
+    "ack_time_ms": 5472,
+    "ack_anomaly": true,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 41,
+    "solver": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC",
+    "ack_time_ms": 253,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 42,
+    "solver": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC",
+    "ack_time_ms": 576,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 43,
+    "solver": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC",
+    "ack_time_ms": 540,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 44,
+    "solver": "0x9965507D1a55bcC2695C58ba16FB37d819B0A4dc",
+    "ack_time_ms": 639,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 45,
+    "solver": "0x90F79bf6EB2c4f870365E785982E1f101E93b906",
+    "ack_time_ms": 532,
+    "ack_anomaly": false,
+    "gas_fulfill": 70564
+  },
+  {
+    "trial": 46,
+    "solver": "0x9965507D1a55bcC2695C58ba16FB37d819B0A4dc",
+    "ack_time_ms": 238,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 47,
+    "solver": "0x9965507D1a55bcC2695C58ba16FB37d819B0A4dc",
+    "ack_time_ms": 438,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 48,
+    "solver": "0x9965507D1a55bcC2695C58ba16FB37d819B0A4dc",
+    "ack_time_ms": 423,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 49,
+    "solver": "0x9965507D1a55bcC2695C58ba16FB37d819B0A4dc",
+    "ack_time_ms": 545,
+    "ack_anomaly": false,
+    "gas_fulfill": 70564
+  },
+  {
+    "trial": 50,
+    "solver": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC",
+    "ack_time_ms": 303,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 51,
+    "solver": "0x15d34AAf54267DB7D7c367839AAf71A00a2C6A65",
+    "ack_time_ms": 138,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 52,
+    "solver": "0x976EA74026E726554dB657fA54763abd0C3a0aa9",
+    "ack_time_ms": 585,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 53,
+    "solver": "0x9965507D1a55bcC2695C58ba16FB37d819B0A4dc",
+    "ack_time_ms": 197,
+    "ack_anomaly": false,
+    "gas_fulfill": 70564
+  },
+  {
+    "trial": 54,
+    "solver": "0x976EA74026E726554dB657fA54763abd0C3a0aa9",
+    "ack_time_ms": 211,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 55,
+    "solver": "0x15d34AAf54267DB7D7c367839AAf71A00a2C6A65",
+    "ack_time_ms": 620,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 56,
+    "solver": "0x976EA74026E726554dB657fA54763abd0C3a0aa9",
+    "ack_time_ms": 268,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 57,
+    "solver": "0x15d34AAf54267DB7D7c367839AAf71A00a2C6A65",
+    "ack_time_ms": 342,
+    "ack_anomaly": false,
+    "gas_fulfill": 70552
+  },
+  {
+    "trial": 58,
+    "solver": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC",
+    "ack_time_ms": 487,
+    "ack_anomaly": false,
+    "gas_fulfill": 70564
+  },
+  {
+    "trial": 59,
+    "solver": "0x15d34AAf54267DB7D7c367839AAf71A00a2C6A65",
+    "ack_time_ms": 300,
+    "ack_anomaly": false,
+    "gas_fulfill": 70552
+  },
+  {
+    "trial": 60,
+    "solver": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC",
+    "ack_time_ms": 510,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 61,
+    "solver": "0x90F79bf6EB2c4f870365E785982E1f101E93b906",
+    "ack_time_ms": 374,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 62,
+    "solver": "0x9965507D1a55bcC2695C58ba16FB37d819B0A4dc",
+    "ack_time_ms": 619,
+    "ack_anomaly": false,
+    "gas_fulfill": 70564
+  },
+  {
+    "trial": 63,
+    "solver": "0x15d34AAf54267DB7D7c367839AAf71A00a2C6A65",
+    "ack_time_ms": 596,
+    "ack_anomaly": false,
+    "gas_fulfill": 70564
+  },
+  {
+    "trial": 64,
+    "solver": "0x90F79bf6EB2c4f870365E785982E1f101E93b906",
+    "ack_time_ms": 5273,
+    "ack_anomaly": true,
+    "gas_fulfill": 70564
+  },
+  {
+    "trial": 65,
+    "solver": "0x15d34AAf54267DB7D7c367839AAf71A00a2C6A65",
+    "ack_time_ms": 543,
+    "ack_anomaly": false,
+    "gas_fulfill": 70564
+  },
+  {
+    "trial": 66,
+    "solver": "0x976EA74026E726554dB657fA54763abd0C3a0aa9",
+    "ack_time_ms": 224,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 67,
+    "solver": "0x90F79bf6EB2c4f870365E785982E1f101E93b906",
+    "ack_time_ms": 425,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 68,
+    "solver": "0x9965507D1a55bcC2695C58ba16FB37d819B0A4dc",
+    "ack_time_ms": 5592,
+    "ack_anomaly": true,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 69,
+    "solver": "0x15d34AAf54267DB7D7c367839AAf71A00a2C6A65",
+    "ack_time_ms": 580,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 70,
+    "solver": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC",
+    "ack_time_ms": 414,
+    "ack_anomaly": false,
+    "gas_fulfill": 70564
+  },
+  {
+    "trial": 71,
+    "solver": "0x90F79bf6EB2c4f870365E785982E1f101E93b906",
+    "ack_time_ms": 130,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 72,
+    "solver": "0x15d34AAf54267DB7D7c367839AAf71A00a2C6A65",
+    "ack_time_ms": 294,
+    "ack_anomaly": false,
+    "gas_fulfill": 70564
+  },
+  {
+    "trial": 73,
+    "solver": "0x15d34AAf54267DB7D7c367839AAf71A00a2C6A65",
+    "ack_time_ms": 165,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 74,
+    "solver": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC",
+    "ack_time_ms": 5415,
+    "ack_anomaly": true,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 75,
+    "solver": "0x9965507D1a55bcC2695C58ba16FB37d819B0A4dc",
+    "ack_time_ms": 641,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 76,
+    "solver": "0x9965507D1a55bcC2695C58ba16FB37d819B0A4dc",
+    "ack_time_ms": 640,
+    "ack_anomaly": false,
+    "gas_fulfill": 70564
+  },
+  {
+    "trial": 77,
+    "solver": "0x9965507D1a55bcC2695C58ba16FB37d819B0A4dc",
+    "ack_time_ms": 433,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 78,
+    "solver": "0x90F79bf6EB2c4f870365E785982E1f101E93b906",
+    "ack_time_ms": 384,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 79,
+    "solver": "0x90F79bf6EB2c4f870365E785982E1f101E93b906",
+    "ack_time_ms": 465,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 80,
+    "solver": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC",
+    "ack_time_ms": 576,
+    "ack_anomaly": false,
+    "gas_fulfill": 70564
+  },
+  {
+    "trial": 81,
+    "solver": "0x976EA74026E726554dB657fA54763abd0C3a0aa9",
+    "ack_time_ms": 201,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 82,
+    "solver": "0x976EA74026E726554dB657fA54763abd0C3a0aa9",
+    "ack_time_ms": 339,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 83,
+    "solver": "0x976EA74026E726554dB657fA54763abd0C3a0aa9",
+    "ack_time_ms": 230,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 84,
+    "solver": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC",
+    "ack_time_ms": 208,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 85,
+    "solver": "0x9965507D1a55bcC2695C58ba16FB37d819B0A4dc",
+    "ack_time_ms": 400,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 86,
+    "solver": "0x15d34AAf54267DB7D7c367839AAf71A00a2C6A65",
+    "ack_time_ms": 261,
+    "ack_anomaly": false,
+    "gas_fulfill": 70564
+  },
+  {
+    "trial": 87,
+    "solver": "0x15d34AAf54267DB7D7c367839AAf71A00a2C6A65",
+    "ack_time_ms": 387,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 88,
+    "solver": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC",
+    "ack_time_ms": 593,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 89,
+    "solver": "0x976EA74026E726554dB657fA54763abd0C3a0aa9",
+    "ack_time_ms": 592,
+    "ack_anomaly": false,
+    "gas_fulfill": 70552
+  },
+  {
+    "trial": 90,
+    "solver": "0x9965507D1a55bcC2695C58ba16FB37d819B0A4dc",
+    "ack_time_ms": 149,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 91,
+    "solver": "0x15d34AAf54267DB7D7c367839AAf71A00a2C6A65",
+    "ack_time_ms": 176,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 92,
+    "solver": "0x976EA74026E726554dB657fA54763abd0C3a0aa9",
+    "ack_time_ms": 221,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 93,
+    "solver": "0x90F79bf6EB2c4f870365E785982E1f101E93b906",
+    "ack_time_ms": 576,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 94,
+    "solver": "0x15d34AAf54267DB7D7c367839AAf71A00a2C6A65",
+    "ack_time_ms": 404,
+    "ack_anomaly": false,
+    "gas_fulfill": 70552
+  },
+  {
+    "trial": 95,
+    "solver": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC",
+    "ack_time_ms": 548,
+    "ack_anomaly": false,
+    "gas_fulfill": 70564
+  },
+  {
+    "trial": 96,
+    "solver": "0x90F79bf6EB2c4f870365E785982E1f101E93b906",
+    "ack_time_ms": 176,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 97,
+    "solver": "0x15d34AAf54267DB7D7c367839AAf71A00a2C6A65",
+    "ack_time_ms": 435,
+    "ack_anomaly": false,
+    "gas_fulfill": 70564
+  },
+  {
+    "trial": 98,
+    "solver": "0x976EA74026E726554dB657fA54763abd0C3a0aa9",
+    "ack_time_ms": 5406,
+    "ack_anomaly": true,
+    "gas_fulfill": 70576
+  },
+  {
+    "trial": 99,
+    "solver": "0x90F79bf6EB2c4f870365E785982E1f101E93b906",
+    "ack_time_ms": 386,
+    "ack_anomaly": false,
+    "gas_fulfill": 70552
+  },
+  {
+    "trial": 100,
+    "solver": "0x90F79bf6EB2c4f870365E785982E1f101E93b906",
+    "ack_time_ms": 582,
+    "ack_anomaly": false,
+    "gas_fulfill": 70576
+  }
+]
